@@ -282,3 +282,5 @@ JSON OUTPUT SAVED TO: ocr-highlights-extraction.json
 | **High Memory** | Add `-Dexec.jvmArgs="-Xmx4g"` |
 
 This guide provides comprehensive Maven-based execution instructions for Tesseract OCR integration with the PDF highlight extraction project.
+
+.\extract-highlights-ocr.bat "PDF for Automation Testing.pdf"
